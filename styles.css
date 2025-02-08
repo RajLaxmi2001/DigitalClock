@@ -1,0 +1,21 @@
+body {
+  font-family: "Lato" serif;
+    background-image: url("https://4kwallpapers.com/images/wallpapers/windows-11-dark-mode-abstract-background-black-background-640x1136-8710.jpg");  
+    background-size: cover;
+    color: #f0f0eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+#clock {
+  color: rgb(168, 169, 148);
+  font-size: 100px;
+  letter-spacing: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 95vh;
+}
